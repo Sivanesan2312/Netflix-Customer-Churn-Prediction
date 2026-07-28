@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Country,Subscription_Type,Monthly_Fee,Watch_Hours,Favourite_Genre,Months_Subscribed,Payment_Method,Customer_Support_Calls,Satisfaction_Score,Churn
+C0001,58,Male,India,Premium,649,9,Comedy,16,Credit Card,5,1,Yes
+C0002,52,Male,Australia,Standard,499,2,Action,2,Credit Card,1,5,Yes
+C0003,53,Male,Australia,Standard,499,8,Romance,29,Debit Card,0,2,Yes
+C0004,39,Female,USA,Basic,199,25,Action,22,UPI,3,1,Yes
+C0005,40,Female,India,Premium,649,15,Action,35,PayPal,0,5,No
+C0006,36,Female,Australia,Basic,199,23,Action,5,Credit Card,2,1,No
+C0007,24,Female,UK,Standard,499,21,Comedy,24,Debit Card,2,2,Yes
+C0008,62,Male,Australia,Premium,649,6,Sci-Fi,35,Credit Card,1,4,No
+C0009,42,Female,Australia,Basic,199,22,Action,21,Credit Card,0,3,No
+C0010,43,Female,India,Basic,199,19,Drama,46,Credit Card,5,4,Yes
+C0011,59,Female,USA,Standard,499,5,Sci-Fi,16,Debit Card,5,5,Yes
+C0012,55,Female,UK,Basic,199,5,Horror,33,UPI,0,1,Yes
+C0013,28,Female,Australia,Basic,199,13,Romance,25,PayPal,4,3,No
+C0014,18,Male,Australia,Standard,499,25,Drama,42,UPI,2,4,No
+C0015,28,Female,India,Premium,649,24,Romance,17,Credit Card,4,1,No
+C0016,37,Male,USA,Standard,499,25,Romance,11,UPI,4,3,Yes
+C0017,25,Female,UK,Basic,199,2,Romance,16,UPI,0,4,No
+C0018,52,Male,USA,Premium,649,16,Comedy,36,Debit Card,4,5,Yes
+C0019,31,Male,UK,Standard,499,22,Drama,42,PayPal,4,4,Yes
+C0020,32,Male,UK,Basic,199,19,Comedy,36,Credit Card,0,1,Yes
+C0021,21,Male,India,Basic,199,11,Romance,5,Credit Card,2,4,No
+C0022,31,Male,Australia,Premium,649,16,Horror,16,PayPal,1,1,Yes
+C0023,45,Female,Canada,Standard,499,15,Action,47,UPI,0,4,No
+C0024,64,Female,India,Basic,199,7,Romance,13,PayPal,1,4,No
+C0025,29,Female,Canada,Basic,199,3,Romance,29,UPI,0,5,No
+C0026,23,Male,USA,Standard,499,16,Comedy,31,PayPal,0,2,Yes
+C0027,42,Female,Canada,Standard,499,14,Sci-Fi,45,PayPal,1,2,Yes
+C0028,21,Male,UK,Basic,199,2,Horror,38,Credit Card,0,5,Yes
+C0029,29,Male,Australia,Basic,199,22,Horror,16,UPI,4,2,Yes
+C0030,20,Male,Canada,Premium,649,19,Romance,37,Debit Card,2,2,Yes
+C0031,38,Male,UK,Standard,499,5,Sci-Fi,43,Debit Card,3,3,No
+C0032,22,Male,Canada,Premium,649,19,Action,7,Credit Card,4,3,Yes
+C0033,40,Male,USA,Standard,499,10,Horror,11,Debit Card,4,5,Yes
+C0034,53,Female,India,Basic,199,9,Action,8,Credit Card,2,3,No
+C0035,56,Male,UK,Basic,199,22,Drama,41,PayPal,2,1,Yes
+C0036,45,Female,India,Basic,199,11,Sci-Fi,9,Debit Card,1,4,No
+C0037,53,Female,Australia,Basic,199,4,Sci-Fi,5,Credit Card,4,1,No
+C0038,55,Male,Canada,Basic,199,2,Drama,20,UPI,2,2,Yes
+C0039,60,Male,UK,Premium,649,14,Sci-Fi,40,Credit Card,1,2,No
+C0040,29,Female,India,Basic,199,24,Horror,22,Credit Card,2,2,Yes
+C0041,24,Female,India,Standard,499,8,Horror,13,Debit Card,2,2,Yes
+C0042,60,Male,Canada,Standard,499,9,Drama,5,Debit Card,5,5,Yes
+C0043,52,Female,India,Basic,199,9,Romance,12,Debit Card,0,1,Yes
+C0044,40,Female,Canada,Premium,649,17,Horror,8,Credit Card,2,1,Yes
+C0045,18,Male,UK,Standard,499,3,Drama,43,Debit Card,5,1,Yes
+C0046,37,Female,Canada,Standard,499,13,Drama,45,Credit Card,1,4,No
+C0047,60,Female,USA,Premium,649,19,Horror,20,UPI,2,3,No
+C0048,31,Female,Australia,Premium,649,21,Horror,21,PayPal,3,2,Yes
+C0049,65,Male,India,Standard,499,17,Sci-Fi,43,Debit Card,0,2,Yes
+C0050,32,Male,USA,Basic,199,2,Horror,16,UPI,3,4,No
+C0051,54,Male,Canada,Standard,499,13,Comedy,16,UPI,0,4,No
+C0052,32,Male,Australia,Standard,499,2,Comedy,36,UPI,3,2,No
+C0053,60,Female,Canada,Premium,649,24,Horror,33,PayPal,1,4,No
+C0054,46,Female,USA,Premium,649,9,Horror,34,Credit Card,2,4,No
+C0055,22,Female,USA,Standard,499,11,Romance,21,UPI,1,2,Yes
+C0056,62,Male,USA,Basic,199,14,Drama,27,PayPal,3,1,Yes
+C0057,44,Female,Australia,Premium,649,1,Horror,37,PayPal,0,3,Yes
+C0058,42,Female,Australia,Premium,649,24,Romance,35,Credit Card,3,2,Yes
+C0059,49,Male,Canada,Standard,499,22,Horror,44,Credit Card,3,2,No
+C0060,52,Male,Canada,Premium,649,19,Action,43,UPI,5,4,Yes
+C0061,47,Male,India,Standard,499,13,Comedy,21,PayPal,2,3,No
+C0062,42,Female,Canada,Standard,499,3,Action,31,UPI,2,2,Yes
+C0063,59,Male,India,Basic,199,7,Romance,2,Credit Card,1,2,Yes
+C0064,25,Male,Canada,Premium,649,9,Comedy,24,UPI,1,3,No
+C0065,24,Male,UK,Premium,649,22,Horror,25,Credit Card,0,5,No
+C0066,62,Male,India,Premium,649,25,Sci-Fi,20,UPI,4,1,Yes
+C0067,45,Female,India,Premium,649,21,Action,22,PayPal,3,1,Yes
+C0068,41,Female,USA,Standard,499,6,Romance,47,Debit Card,4,5,Yes
+C0069,47,Female,Australia,Standard,499,11,Action,16,Debit Card,3,2,Yes
+C0070,54,Female,UK,Basic,199,16,Comedy,21,PayPal,1,3,No
+C0071,34,Female,UK,Premium,649,23,Romance,18,UPI,4,2,Yes
+C0072,64,Female,Canada,Premium,649,25,Sci-Fi,16,PayPal,5,4,Yes
+C0073,19,Male,UK,Basic,199,13,Comedy,45,Debit Card,5,5,Yes
+C0074,53,Female,Canada,Premium,649,18,Drama,22,PayPal,2,3,No
+C0075,34,Male,India,Premium,649,7,Action,21,Credit Card,1,2,Yes
+C0076,35,Female,India,Basic,199,10,Drama,15,Credit Card,2,1,Yes
+C0077,26,Female,India,Basic,199,18,Sci-Fi,19,Credit Card,5,4,Yes
+C0078,18,Female,Canada,Standard,499,15,Comedy,22,UPI,2,4,No
+C0079,25,Male,Canada,Standard,499,3,Sci-Fi,37,UPI,1,2,No
+C0080,37,Male,USA,Basic,199,18,Romance,27,Credit Card,4,4,Yes
+C0081,46,Female,Australia,Standard,499,10,Romance,37,UPI,4,1,No
+C0082,31,Male,UK,Premium,649,3,Comedy,11,Credit Card,4,1,Yes
+C0083,44,Female,Australia,Standard,499,10,Comedy,3,Debit Card,5,3,Yes
+C0084,47,Male,USA,Standard,499,21,Sci-Fi,38,Credit Card,3,1,Yes
+C0085,59,Male,UK,Basic,199,3,Comedy,4,Debit Card,4,5,No
+C0086,46,Male,Canada,Premium,649,10,Horror,45,Debit Card,4,5,Yes
+C0087,23,Male,Canada,Premium,649,11,Drama,39,UPI,0,2,No
+C0088,54,Male,UK,Premium,649,2,Horror,12,PayPal,2,2,No
+C0089,45,Female,India,Standard,499,12,Drama,27,Debit Card,5,1,No
+C0090,39,Female,Canada,Standard,499,22,Romance,26,UPI,3,1,Yes
+C0091,38,Male,Canada,Premium,649,1,Romance,43,PayPal,3,1,Yes
+C0092,41,Female,Canada,Basic,199,7,Romance,18,Credit Card,2,4,No
+C0093,62,Female,India,Basic,199,21,Comedy,39,Credit Card,2,5,No
+C0094,18,Female,India,Basic,199,4,Action,30,Credit Card,3,3,Yes
+C0095,35,Female,Canada,Standard,499,8,Romance,30,Credit Card,3,2,No
+C0096,50,Male,India,Standard,499,25,Drama,27,Debit Card,0,3,No
+C0097,64,Female,Australia,Premium,649,22,Comedy,32,PayPal,4,4,Yes
+C0098,53,Female,Canada,Standard,499,7,Comedy,45,PayPal,1,4,No
+C0099,20,Female,Canada,Premium,649,13,Sci-Fi,25,Credit Card,3,1,Yes
+C0100,55,Female,India,Standard,499,4,Horror,34,UPI,5,2,Yes
+C0101,59,Male,India,Standard,499,9,Romance,22,PayPal,5,1,No
+C0102,61,Female,UK,Premium,649,23,Romance,32,UPI,4,1,Yes
+C0103,61,Female,USA,Premium,649,3,Action,28,UPI,3,2,Yes
+C0104,19,Male,UK,Basic,199,10,Drama,23,PayPal,1,2,Yes
+C0105,54,Male,USA,Basic,199,3,Horror,40,Credit Card,3,5,Yes
+C0106,47,Female,Canada,Standard,499,22,Horror,1,Debit Card,5,5,Yes
+C0107,46,Female,Australia,Standard,499,21,Sci-Fi,28,Debit Card,3,3,No
+C0108,30,Female,Canada,Basic,199,8,Romance,25,Debit Card,4,3,No
+C0109,36,Male,Canada,Standard,499,1,Sci-Fi,37,UPI,4,4,No
+C0110,36,Male,Australia,Standard,499,8,Comedy,41,Debit Card,5,2,Yes
+C0111,58,Male,UK,Standard,499,2,Drama,38,Credit Card,0,3,Yes
+C0112,44,Male,USA,Basic,199,18,Romance,24,Debit Card,1,3,No
+C0113,48,Female,UK,Basic,199,15,Comedy,5,Credit Card,5,4,No
+C0114,53,Female,India,Standard,499,1,Romance,17,UPI,3,3,Yes
+C0115,61,Female,Australia,Standard,499,21,Action,24,Credit Card,3,1,Yes
+C0116,53,Female,Australia,Basic,199,21,Sci-Fi,5,PayPal,5,3,Yes
+C0117,25,Male,India,Basic,199,10,Action,32,UPI,1,5,No
+C0118,26,Female,Canada,Standard,499,22,Sci-Fi,48,PayPal,4,2,No
+C0119,59,Male,Canada,Premium,649,14,Action,18,Debit Card,1,4,No
+C0120,46,Male,UK,Basic,199,22,Romance,24,Debit Card,0,4,No
+C0121,35,Male,India,Standard,499,3,Comedy,43,UPI,0,3,Yes
+C0122,26,Male,India,Premium,649,7,Comedy,38,Credit Card,2,2,Yes
+C0123,56,Male,UK,Basic,199,5,Drama,35,Credit Card,0,1,Yes
+C0124,40,Male,Australia,Standard,499,1,Drama,12,UPI,1,4,Yes
+C0125,65,Male,Canada,Standard,499,25,Romance,24,UPI,3,5,No
+C0126,32,Male,Australia,Standard,499,15,Action,42,UPI,3,4,No
+C0127,45,Male,Canada,Premium,649,15,Action,5,Debit Card,4,2,Yes
+C0128,35,Female,Canada,Premium,649,17,Horror,19,PayPal,0,1,No
+C0129,59,Male,Canada,Standard,499,8,Drama,27,PayPal,3,4,No
+C0130,64,Male,UK,Standard,499,11,Drama,43,Debit Card,1,4,No
+C0131,22,Male,India,Basic,199,14,Sci-Fi,7,Debit Card,1,5,No
+C0132,21,Female,India,Standard,499,12,Horror,43,UPI,2,5,No
+C0133,37,Female,India,Premium,649,17,Comedy,14,PayPal,1,1,Yes
+C0134,53,Female,India,Standard,499,19,Horror,15,UPI,4,3,Yes
+C0135,35,Female,UK,Standard,499,1,Comedy,12,PayPal,0,2,Yes
+C0136,19,Male,Australia,Basic,199,13,Horror,27,Debit Card,1,3,No
+C0137,37,Female,Australia,Premium,649,3,Comedy,4,Credit Card,4,1,Yes
+C0138,35,Female,Canada,Standard,499,20,Horror,29,Debit Card,1,5,No
+C0139,25,Female,Canada,Basic,199,10,Sci-Fi,44,PayPal,4,3,Yes
+C0140,43,Male,India,Basic,199,10,Comedy,14,Debit Card,2,3,No
+C0141,25,Male,Canada,Premium,649,14,Comedy,12,PayPal,4,2,Yes
+C0142,60,Female,India,Standard,499,24,Horror,3,UPI,3,1,No
+C0143,54,Female,Australia,Standard,499,23,Horror,41,Debit Card,0,4,No
+C0144,19,Female,USA,Premium,649,15,Drama,45,UPI,3,1,Yes
+C0145,55,Female,Australia,Basic,199,13,Sci-Fi,20,Debit Card,1,3,No
+C0146,28,Male,Australia,Premium,649,4,Romance,34,Credit Card,2,3,Yes
+C0147,59,Male,USA,Basic,199,5,Comedy,17,Credit Card,4,2,Yes
+C0148,59,Male,USA,Premium,649,16,Romance,30,PayPal,5,5,Yes
+C0149,57,Female,UK,Basic,199,15,Horror,5,PayPal,5,3,Yes
+C0150,55,Male,UK,Premium,649,3,Horror,20,PayPal,0,1,Yes
+C0151,36,Male,India,Premium,649,20,Horror,33,PayPal,4,5,No
+C0152,65,Male,Canada,Premium,649,21,Drama,13,PayPal,4,2,No
+C0153,46,Male,UK,Premium,649,3,Sci-Fi,33,Credit Card,0,2,Yes
+C0154,46,Male,UK,Standard,499,10,Horror,25,Debit Card,5,5,Yes
+C0155,58,Female,India,Standard,499,4,Sci-Fi,36,PayPal,2,3,Yes
+C0156,60,Male,UK,Basic,199,19,Comedy,43,Debit Card,2,4,No
+C0157,26,Male,UK,Premium,649,13,Drama,42,Credit Card,5,5,Yes
+C0158,60,Female,Australia,Standard,499,1,Drama,24,Credit Card,1,3,No
+C0159,49,Male,USA,Basic,199,5,Drama,5,UPI,4,5,No
+C0160,51,Male,UK,Premium,649,5,Horror,39,Credit Card,1,2,No
+C0161,57,Male,Canada,Basic,199,14,Sci-Fi,24,Credit Card,3,5,No
+C0162,36,Female,USA,Premium,649,8,Horror,20,Credit Card,2,5,No
+C0163,46,Female,UK,Standard,499,17,Horror,34,Credit Card,1,5,No
+C0164,26,Female,India,Premium,649,16,Romance,24,UPI,5,5,No
+C0165,36,Male,USA,Standard,499,15,Comedy,33,PayPal,0,2,No
+C0166,40,Male,Canada,Basic,199,13,Drama,33,Credit Card,3,1,Yes
+C0167,19,Female,India,Premium,649,21,Comedy,22,Credit Card,0,3,No
+C0168,48,Male,Canada,Standard,499,20,Action,1,UPI,2,2,No
+C0169,53,Female,India,Standard,499,8,Action,20,UPI,1,4,No
+C0170,58,Female,India,Basic,199,16,Romance,39,UPI,5,5,Yes
+C0171,63,Male,UK,Standard,499,1,Drama,40,Credit Card,4,4,Yes
+C0172,60,Male,Australia,Standard,499,3,Romance,34,UPI,3,4,Yes
+C0173,42,Female,UK,Premium,649,1,Action,23,Debit Card,1,1,Yes
+C0174,65,Female,USA,Basic,199,12,Drama,35,Credit Card,5,4,No
+C0175,48,Male,USA,Basic,199,23,Action,30,Debit Card,1,1,Yes
+C0176,20,Female,UK,Premium,649,13,Horror,35,Debit Card,0,2,Yes
+C0177,21,Female,UK,Basic,199,12,Horror,28,PayPal,3,3,No
+C0178,29,Female,Canada,Standard,499,17,Action,18,PayPal,0,4,No
+C0179,56,Male,Australia,Standard,499,11,Action,7,Debit Card,5,3,Yes
+C0180,56,Female,USA,Premium,649,15,Horror,23,UPI,5,3,Yes
+C0181,45,Female,India,Basic,199,22,Horror,41,Debit Card,4,2,No
+C0182,27,Female,India,Basic,199,3,Sci-Fi,16,Debit Card,2,4,No
+C0183,20,Male,Canada,Standard,499,12,Action,29,Credit Card,4,3,Yes
+C0184,59,Female,USA,Basic,199,1,Comedy,48,PayPal,4,4,No
+C0185,25,Female,UK,Premium,649,15,Romance,14,Debit Card,5,4,Yes
+C0186,26,Male,Canada,Basic,199,23,Action,29,Debit Card,5,3,Yes
+C0187,53,Female,UK,Basic,199,23,Sci-Fi,46,Credit Card,2,5,No
+C0188,32,Male,USA,Basic,199,8,Action,32,Debit Card,4,5,Yes
+C0189,53,Male,Australia,Basic,199,3,Horror,20,PayPal,4,4,Yes
+C0190,54,Male,USA,Standard,499,21,Horror,5,PayPal,5,5,Yes
+C0191,53,Male,USA,Standard,499,17,Action,4,Credit Card,2,2,Yes
+C0192,63,Male,UK,Premium,649,10,Drama,6,Credit Card,5,5,Yes
+C0193,58,Female,Australia,Premium,649,3,Sci-Fi,33,Credit Card,4,5,Yes
+C0194,60,Female,Australia,Basic,199,1,Action,6,Debit Card,5,2,Yes
+C0195,44,Male,Canada,Premium,649,18,Sci-Fi,19,Debit Card,3,2,No
+C0196,61,Female,UK,Standard,499,3,Action,45,Credit Card,3,4,Yes
+C0197,31,Female,Australia,Basic,199,11,Drama,46,Debit Card,3,2,Yes
+C0198,50,Male,UK,Basic,199,15,Drama,8,PayPal,1,2,Yes
+C0199,36,Female,Australia,Standard,499,8,Drama,11,Debit Card,1,2,Yes
+C0200,50,Female,Canada,Standard,499,16,Action,2,PayPal,4,4,No
+C0201,31,Female,India,Basic,199,10,Romance,32,PayPal,2,5,No
+C0202,18,Male,Canada,Basic,199,9,Drama,47,PayPal,2,1,Yes
+C0203,54,Male,UK,Premium,649,10,Horror,5,PayPal,4,3,No
+C0204,57,Male,USA,Basic,199,13,Drama,24,Debit Card,1,2,Yes
+C0205,43,Male,India,Basic,199,5,Drama,46,PayPal,4,4,Yes
+C0206,50,Male,UK,Premium,649,11,Horror,11,Debit Card,4,3,Yes
+C0207,50,Female,Australia,Standard,499,16,Drama,2,Debit Card,5,1,No
+C0208,55,Female,India,Premium,649,16,Sci-Fi,17,Credit Card,5,1,Yes
+C0209,28,Female,USA,Premium,649,8,Romance,3,UPI,1,1,Yes
+C0210,44,Male,Canada,Premium,649,7,Romance,27,PayPal,5,1,Yes
+C0211,51,Male,Australia,Standard,499,22,Romance,31,PayPal,2,2,Yes
+C0212,52,Female,Australia,Standard,499,22,Sci-Fi,47,Debit Card,4,4,Yes
+C0213,33,Female,Australia,Standard,499,8,Drama,20,Credit Card,5,4,Yes
+C0214,40,Female,UK,Basic,199,19,Romance,44,PayPal,3,3,No
+C0215,27,Female,India,Standard,499,23,Drama,6,PayPal,5,3,Yes
+C0216,31,Male,Australia,Standard,499,18,Drama,45,Credit Card,0,5,No
+C0217,65,Male,USA,Basic,199,22,Comedy,34,Credit Card,0,1,Yes
+C0218,63,Female,India,Premium,649,25,Action,9,Credit Card,3,4,No
+C0219,48,Male,UK,Standard,499,10,Action,42,UPI,5,5,Yes
+C0220,65,Male,USA,Standard,499,6,Horror,3,PayPal,1,3,No
+C0221,20,Male,UK,Premium,649,20,Drama,7,Debit Card,3,5,No
+C0222,51,Female,USA,Premium,649,15,Comedy,18,UPI,2,2,Yes
+C0223,59,Female,USA,Basic,199,24,Drama,22,Credit Card,1,5,No
+C0224,58,Female,Canada,Premium,649,11,Horror,6,UPI,1,2,Yes
+C0225,33,Male,UK,Standard,499,8,Drama,29,Debit Card,2,5,No
+C0226,64,Male,UK,Premium,649,12,Comedy,45,UPI,5,1,Yes
+C0227,28,Female,Australia,Premium,649,25,Sci-Fi,20,UPI,5,3,Yes
+C0228,32,Male,USA,Standard,499,5,Sci-Fi,30,Debit Card,3,5,No
+C0229,52,Male,USA,Premium,649,25,Action,39,PayPal,4,3,Yes
+C0230,54,Male,India,Premium,649,17,Romance,13,Credit Card,1,3,No
+C0231,51,Female,India,Premium,649,7,Romance,46,PayPal,0,5,No
+C0232,46,Male,Canada,Basic,199,17,Horror,27,UPI,4,4,Yes
+C0233,37,Male,Canada,Standard,499,1,Comedy,48,UPI,0,4,Yes
+C0234,22,Male,India,Standard,499,2,Horror,19,Credit Card,1,4,Yes
+C0235,42,Female,Canada,Standard,499,3,Sci-Fi,44,Credit Card,5,3,Yes
+C0236,52,Female,Australia,Basic,199,24,Action,15,UPI,2,4,No
+C0237,61,Female,Australia,Standard,499,8,Horror,16,Debit Card,1,3,No
+C0238,30,Male,India,Premium,649,14,Action,40,Credit Card,1,1,Yes
+C0239,20,Female,Australia,Premium,649,23,Comedy,4,UPI,3,4,No
+C0240,32,Male,India,Basic,199,17,Comedy,19,Debit Card,4,5,Yes
+C0241,38,Male,UK,Basic,199,22,Comedy,34,PayPal,2,3,No
+C0242,21,Male,Canada,Premium,649,16,Drama,4,PayPal,4,3,Yes
+C0243,44,Male,UK,Standard,499,6,Horror,35,Credit Card,1,3,No
+C0244,63,Male,Canada,Basic,199,18,Horror,27,Credit Card,3,2,Yes
+C0245,39,Male,Canada,Standard,499,3,Sci-Fi,35,Credit Card,0,3,Yes
+C0246,56,Male,India,Basic,199,25,Sci-Fi,38,Credit Card,3,2,No
+C0247,39,Female,India,Basic,199,7,Action,48,PayPal,1,5,No
+C0248,63,Male,Canada,Basic,199,18,Drama,21,PayPal,3,5,No
+C0249,59,Female,UK,Standard,499,12,Horror,33,PayPal,0,4,No
+C0250,38,Male,UK,Standard,499,14,Romance,3,Credit Card,5,2,Yes
+C0251,53,Female,UK,Basic,199,7,Comedy,22,PayPal,4,2,Yes
+C0252,59,Female,UK,Standard,499,24,Sci-Fi,42,PayPal,3,2,Yes
+C0253,40,Male,USA,Premium,649,18,Comedy,32,UPI,4,1,No
+C0254,22,Male,India,Standard,499,5,Comedy,41,UPI,5,2,Yes
+C0255,50,Female,UK,Basic,199,20,Sci-Fi,41,PayPal,5,4,Yes
+C0256,52,Female,India,Basic,199,17,Drama,47,Debit Card,0,5,No
+C0257,62,Female,USA,Basic,199,4,Comedy,34,Credit Card,1,5,Yes
+C0258,40,Female,Canada,Basic,199,12,Horror,26,Credit Card,5,2,Yes
+C0259,23,Male,India,Standard,499,13,Romance,25,PayPal,0,1,Yes
+C0260,23,Female,Canada,Premium,649,11,Action,37,UPI,1,2,No
+C0261,62,Female,UK,Basic,199,3,Drama,44,UPI,1,3,Yes
+C0262,31,Male,Canada,Basic,199,10,Romance,11,Credit Card,4,4,Yes
+C0263,52,Female,Canada,Premium,649,5,Sci-Fi,45,UPI,4,3,Yes
+C0264,45,Male,India,Standard,499,20,Romance,40,PayPal,2,1,Yes
+C0265,46,Female,USA,Standard,499,18,Horror,25,Credit Card,5,5,Yes
+C0266,23,Female,USA,Premium,649,3,Drama,6,Credit Card,3,2,Yes
+C0267,38,Female,India,Basic,199,1,Horror,20,Debit Card,2,1,Yes
+C0268,29,Female,Canada,Premium,649,18,Horror,33,UPI,0,1,Yes
+C0269,23,Female,Canada,Basic,199,10,Horror,27,UPI,5,5,No
+C0270,33,Male,Canada,Basic,199,5,Drama,18,Debit Card,3,2,Yes
+C0271,45,Female,Canada,Standard,499,16,Drama,5,Debit Card,1,4,No
+C0272,56,Male,Canada,Basic,199,5,Action,20,PayPal,2,5,Yes
+C0273,39,Female,UK,Standard,499,21,Comedy,39,Debit Card,2,5,No
+C0274,62,Male,Canada,Standard,499,6,Drama,26,Debit Card,5,4,No
+C0275,33,Female,Canada,Standard,499,13,Action,24,Credit Card,4,5,Yes
+C0276,53,Male,Canada,Premium,649,7,Drama,29,UPI,3,4,No
+C0277,26,Female,USA,Standard,499,22,Sci-Fi,10,PayPal,3,1,Yes
+C0278,56,Female,Australia,Standard,499,18,Sci-Fi,33,PayPal,4,1,Yes
+C0279,41,Male,India,Basic,199,22,Drama,43,Credit Card,5,5,Yes
+C0280,59,Female,UK,Standard,499,4,Action,1,Debit Card,1,5,Yes
+C0281,53,Male,Canada,Standard,499,13,Sci-Fi,30,Credit Card,2,1,Yes
+C0282,36,Female,India,Basic,199,24,Drama,10,Debit Card,2,4,No
+C0283,31,Female,UK,Standard,499,4,Sci-Fi,29,PayPal,2,1,Yes
+C0284,63,Male,India,Standard,499,21,Sci-Fi,7,Credit Card,5,2,Yes
+C0285,53,Male,UK,Premium,649,14,Comedy,30,PayPal,5,2,Yes
+C0286,60,Female,Canada,Basic,199,24,Comedy,40,PayPal,4,4,Yes
+C0287,63,Male,USA,Standard,499,25,Action,46,UPI,4,2,Yes
+C0288,30,Female,India,Standard,499,22,Romance,32,Debit Card,4,4,Yes
+C0289,55,Male,UK,Standard,499,15,Comedy,40,Debit Card,4,5,Yes
+C0290,26,Female,India,Basic,199,10,Comedy,8,Debit Card,5,2,Yes
+C0291,44,Male,Australia,Standard,499,14,Horror,12,Credit Card,4,2,Yes
+C0292,26,Male,UK,Standard,499,20,Drama,4,UPI,3,2,Yes
+C0293,42,Female,Canada,Premium,649,16,Sci-Fi,27,PayPal,3,2,Yes
+C0294,19,Male,UK,Basic,199,9,Romance,15,Debit Card,1,4,No
+C0295,54,Female,Australia,Premium,649,4,Action,37,Debit Card,4,3,Yes
+C0296,20,Female,Australia,Basic,199,14,Sci-Fi,7,Credit Card,2,1,Yes
+C0297,40,Male,Canada,Basic,199,25,Comedy,16,Debit Card,5,5,Yes
+C0298,28,Male,USA,Basic,199,2,Drama,37,Debit Card,4,5,Yes
+C0299,63,Female,UK,Premium,649,9,Sci-Fi,33,UPI,1,4,No
+C0300,21,Female,USA,Premium,649,5,Comedy,16,Debit Card,1,4,Yes
+C0301,54,Female,Canada,Standard,499,15,Sci-Fi,5,UPI,3,5,No
+C0302,65,Female,UK,Standard,499,16,Romance,21,UPI,5,1,Yes
+C0303,47,Female,India,Premium,649,13,Horror,14,Credit Card,3,3,No
+C0304,38,Female,UK,Premium,649,19,Romance,9,PayPal,2,1,Yes
+C0305,58,Female,India,Basic,199,6,Horror,29,UPI,3,2,No
+C0306,26,Female,USA,Standard,499,3,Drama,42,Debit Card,0,3,Yes
+C0307,59,Male,India,Standard,499,21,Sci-Fi,20,Credit Card,3,1,Yes
+C0308,18,Male,Canada,Basic,199,5,Comedy,38,PayPal,0,1,Yes
+C0309,25,Female,USA,Standard,499,3,Horror,15,UPI,5,1,Yes
+C0310,41,Female,USA,Standard,499,25,Sci-Fi,9,Credit Card,0,5,No
+C0311,54,Male,Australia,Premium,649,6,Drama,29,Credit Card,5,2,No
+C0312,57,Female,USA,Basic,199,4,Action,9,PayPal,2,4,Yes
+C0313,26,Male,UK,Premium,649,3,Romance,16,Debit Card,5,1,No
+C0314,60,Female,USA,Premium,649,20,Comedy,33,PayPal,2,1,Yes
+C0315,33,Female,Canada,Basic,199,8,Sci-Fi,32,UPI,4,1,No
+C0316,38,Male,Canada,Premium,649,14,Romance,24,Credit Card,3,1,Yes
+C0317,22,Male,UK,Basic,199,2,Horror,4,Debit Card,5,5,Yes
+C0318,45,Female,India,Premium,649,18,Romance,35,Credit Card,2,1,Yes
+C0319,50,Male,USA,Premium,649,11,Romance,26,UPI,2,4,No
+C0320,64,Male,India,Basic,199,3,Action,28,PayPal,4,5,Yes
+C0321,60,Male,India,Basic,199,23,Sci-Fi,9,UPI,1,4,No
+C0322,40,Female,USA,Standard,499,5,Drama,48,UPI,0,3,No
+C0323,35,Male,UK,Premium,649,19,Action,41,PayPal,3,5,No
+C0324,41,Male,Canada,Premium,649,6,Comedy,24,Debit Card,0,5,No
+C0325,61,Male,USA,Premium,649,17,Action,1,UPI,1,1,Yes
+C0326,42,Male,USA,Basic,199,18,Sci-Fi,46,PayPal,1,3,No
+C0327,33,Female,UK,Standard,499,3,Drama,37,UPI,4,1,Yes
+C0328,51,Male,Canada,Basic,199,15,Drama,19,Debit Card,0,5,No
+C0329,47,Male,UK,Basic,199,10,Drama,37,Credit Card,3,3,No
+C0330,55,Female,USA,Premium,649,18,Comedy,16,UPI,3,1,Yes
+C0331,40,Male,UK,Basic,199,25,Horror,43,Debit Card,0,2,Yes
+C0332,33,Female,Canada,Basic,199,5,Drama,46,UPI,0,2,No
+C0333,51,Female,UK,Standard,499,24,Romance,6,UPI,4,2,Yes
+C0334,43,Male,Australia,Premium,649,2,Sci-Fi,28,Credit Card,1,3,Yes
+C0335,38,Female,UK,Standard,499,15,Comedy,18,UPI,1,2,Yes
+C0336,55,Male,USA,Basic,199,6,Horror,29,Debit Card,3,1,Yes
+C0337,31,Female,UK,Standard,499,9,Action,8,Credit Card,5,3,No
+C0338,62,Male,USA,Standard,499,5,Sci-Fi,6,Credit Card,2,4,Yes
+C0339,61,Female,UK,Basic,199,1,Horror,26,Credit Card,0,4,Yes
+C0340,26,Male,India,Basic,199,25,Comedy,15,Credit Card,3,3,No
+C0341,61,Male,Australia,Premium,649,9,Action,5,UPI,1,4,No
+C0342,26,Male,UK,Basic,199,2,Action,30,Credit Card,4,4,No
+C0343,43,Female,India,Standard,499,22,Comedy,28,Debit Card,1,2,Yes
+C0344,46,Male,India,Premium,649,20,Comedy,40,Debit Card,3,4,No
+C0345,53,Female,India,Basic,199,9,Comedy,25,PayPal,1,5,No
+C0346,33,Male,Canada,Premium,649,12,Romance,31,PayPal,2,5,No
+C0347,50,Female,Canada,Standard,499,6,Drama,2,Credit Card,0,3,No
+C0348,21,Female,Australia,Standard,499,25,Comedy,38,Credit Card,0,2,Yes
+C0349,35,Male,USA,Premium,649,13,Comedy,23,Credit Card,1,5,No
+C0350,38,Female,Australia,Basic,199,23,Drama,45,Credit Card,4,2,No
+C0351,49,Female,USA,Standard,499,2,Action,6,Credit Card,4,2,Yes
+C0352,48,Male,UK,Premium,649,7,Drama,9,Credit Card,2,1,Yes
+C0353,55,Male,India,Premium,649,12,Drama,5,PayPal,4,1,Yes
+C0354,38,Male,USA,Premium,649,14,Horror,41,Debit Card,1,5,No
+C0355,62,Female,USA,Premium,649,19,Horror,12,Debit Card,5,3,Yes
+C0356,64,Male,Australia,Standard,499,25,Action,37,Credit Card,4,3,No
+C0357,57,Male,Australia,Basic,199,16,Drama,10,UPI,1,3,No
+C0358,38,Male,India,Premium,649,22,Sci-Fi,41,Debit Card,3,1,Yes
+C0359,33,Male,UK,Standard,499,4,Action,47,UPI,3,4,Yes
+C0360,28,Female,Canada,Standard,499,12,Horror,35,UPI,3,5,No
+C0361,59,Male,USA,Standard,499,3,Drama,3,UPI,2,3,No
+C0362,22,Female,USA,Standard,499,6,Action,47,UPI,2,5,No
+C0363,57,Female,India,Standard,499,21,Romance,11,PayPal,1,1,Yes
+C0364,31,Male,Canada,Premium,649,18,Sci-Fi,47,Debit Card,5,3,Yes
+C0365,24,Male,Canada,Premium,649,18,Comedy,32,UPI,2,1,Yes
+C0366,36,Female,USA,Basic,199,1,Comedy,14,Debit Card,0,4,No
+C0367,37,Female,Canada,Standard,499,22,Action,17,PayPal,1,3,No
+C0368,42,Female,USA,Standard,499,2,Horror,17,PayPal,2,2,No
+C0369,54,Male,USA,Premium,649,22,Action,7,Debit Card,4,4,No
+C0370,55,Male,Australia,Basic,199,13,Horror,34,PayPal,4,2,Yes
+C0371,23,Female,India,Premium,649,19,Romance,34,Credit Card,0,4,No
+C0372,29,Male,USA,Basic,199,5,Horror,3,UPI,5,4,Yes
+C0373,58,Male,Australia,Standard,499,11,Action,47,UPI,3,5,No
+C0374,43,Female,UK,Premium,649,15,Sci-Fi,1,PayPal,0,4,No
+C0375,27,Male,Australia,Premium,649,19,Action,7,UPI,2,5,No
+C0376,40,Female,UK,Standard,499,21,Romance,32,PayPal,0,2,Yes
+C0377,27,Female,India,Standard,499,11,Comedy,45,UPI,5,4,No
+C0378,41,Male,UK,Standard,499,10,Horror,18,UPI,1,2,Yes
+C0379,65,Female,UK,Standard,499,24,Romance,27,UPI,1,4,No
+C0380,31,Female,Canada,Premium,649,12,Romance,4,Credit Card,0,3,No
+C0381,63,Female,USA,Premium,649,19,Comedy,2,Credit Card,1,1,Yes
+C0382,47,Male,UK,Premium,649,7,Drama,18,PayPal,4,4,Yes
+C0383,25,Male,USA,Standard,499,16,Horror,39,Credit Card,3,5,No
+C0384,53,Female,UK,Basic,199,9,Sci-Fi,48,UPI,2,1,Yes
+C0385,28,Male,USA,Premium,649,8,Comedy,44,Debit Card,5,4,Yes
+C0386,61,Male,Canada,Basic,199,21,Romance,12,UPI,1,3,No
+C0387,56,Female,UK,Standard,499,13,Horror,23,Debit Card,1,4,No
+C0388,37,Female,Australia,Basic,199,1,Sci-Fi,33,Debit Card,4,5,Yes
+C0389,37,Male,Canada,Basic,199,11,Sci-Fi,18,Debit Card,2,3,No
+C0390,59,Female,USA,Basic,199,17,Action,16,PayPal,5,3,Yes
+C0391,64,Male,Canada,Standard,499,9,Horror,27,PayPal,5,1,Yes
+C0392,54,Male,UK,Premium,649,23,Sci-Fi,15,PayPal,5,3,Yes
+C0393,28,Male,UK,Basic,199,16,Sci-Fi,9,Debit Card,5,5,Yes
+C0394,29,Female,India,Basic,199,12,Sci-Fi,15,Debit Card,3,3,No
+C0395,41,Female,Australia,Standard,499,15,Horror,8,UPI,5,5,Yes
+C0396,57,Male,Canada,Basic,199,17,Sci-Fi,8,PayPal,4,3,Yes
+C0397,27,Male,USA,Standard,499,14,Horror,37,Credit Card,2,2,Yes
+C0398,49,Female,USA,Standard,499,21,Action,4,PayPal,2,2,Yes
+C0399,28,Male,Canada,Basic,199,5,Horror,40,PayPal,3,4,No
+C0400,42,Male,India,Premium,649,7,Drama,47,UPI,2,5,No
+C0401,30,Male,India,Premium,649,24,Comedy,16,Debit Card,2,2,Yes
+C0402,50,Female,USA,Basic,199,2,Drama,20,PayPal,5,5,Yes
+C0403,39,Female,USA,Standard,499,16,Comedy,23,Credit Card,3,1,Yes
+C0404,64,Male,USA,Premium,649,1,Romance,38,Credit Card,0,3,Yes
+C0405,20,Female,UK,Premium,649,20,Romance,4,UPI,5,1,Yes
+C0406,19,Male,India,Standard,499,15,Action,25,Debit Card,3,2,Yes
+C0407,61,Male,UK,Standard,499,22,Sci-Fi,7,Debit Card,4,5,Yes
+C0408,44,Male,Australia,Premium,649,20,Drama,8,UPI,0,4,No
+C0409,30,Male,UK,Premium,649,7,Sci-Fi,23,PayPal,2,2,Yes
+C0410,49,Male,Canada,Standard,499,8,Action,1,UPI,0,5,No
+C0411,60,Female,USA,Basic,199,25,Action,33,UPI,2,2,Yes
+C0412,36,Female,Canada,Basic,199,4,Action,12,Debit Card,2,3,Yes
+C0413,25,Male,India,Basic,199,5,Sci-Fi,43,Credit Card,2,3,No
+C0414,57,Female,India,Standard,499,11,Action,12,PayPal,3,4,No
+C0415,35,Female,Canada,Standard,499,21,Action,11,Credit Card,5,1,No
+C0416,28,Male,Canada,Premium,649,16,Sci-Fi,37,PayPal,1,5,No
+C0417,42,Female,Australia,Basic,199,22,Comedy,47,PayPal,3,1,No
+C0418,46,Male,India,Standard,499,21,Action,21,Credit Card,5,3,Yes
+C0419,62,Male,Canada,Premium,649,24,Horror,16,Debit Card,5,4,Yes
+C0420,53,Male,India,Premium,649,6,Horror,33,PayPal,1,1,Yes
+C0421,38,Male,UK,Standard,499,2,Comedy,33,PayPal,3,2,Yes
+C0422,46,Female,India,Standard,499,15,Action,21,PayPal,5,1,Yes
+C0423,44,Male,Australia,Premium,649,1,Romance,6,Debit Card,4,5,Yes
+C0424,60,Female,UK,Standard,499,2,Horror,15,Debit Card,4,5,Yes
+C0425,63,Female,Canada,Basic,199,4,Comedy,43,UPI,2,3,No
+C0426,36,Female,India,Basic,199,6,Comedy,32,PayPal,0,3,No
+C0427,57,Male,USA,Basic,199,13,Horror,14,Credit Card,5,3,Yes
+C0428,44,Male,Australia,Basic,199,25,Horror,29,Credit Card,3,1,Yes
+C0429,21,Female,Australia,Standard,499,17,Sci-Fi,12,Credit Card,5,2,Yes
+C0430,60,Female,Australia,Standard,499,14,Sci-Fi,39,Credit Card,2,4,No
+C0431,39,Female,Canada,Basic,199,5,Romance,27,Debit Card,5,5,No
+C0432,63,Male,USA,Basic,199,20,Drama,46,Debit Card,5,2,No
+C0433,59,Male,Australia,Premium,649,23,Drama,41,UPI,2,5,No
+C0434,48,Female,Australia,Standard,499,14,Romance,1,UPI,0,4,No
+C0435,27,Male,India,Basic,199,9,Drama,11,Debit Card,1,1,Yes
+C0436,36,Male,Australia,Basic,199,12,Action,29,Credit Card,5,5,Yes
+C0437,50,Female,India,Standard,499,13,Sci-Fi,27,Debit Card,4,1,Yes
+C0438,34,Male,Australia,Standard,499,8,Sci-Fi,41,Debit Card,4,5,Yes
+C0439,30,Male,UK,Standard,499,6,Action,44,Credit Card,1,5,No
+C0440,25,Female,India,Standard,499,9,Drama,36,Credit Card,1,5,No
+C0441,34,Male,UK,Standard,499,23,Action,10,Credit Card,2,5,No
+C0442,21,Female,Canada,Premium,649,18,Action,23,Debit Card,4,2,No
+C0443,51,Male,Australia,Basic,199,14,Romance,35,PayPal,0,3,No
+C0444,32,Male,UK,Standard,499,12,Comedy,19,PayPal,4,1,Yes
+C0445,40,Female,USA,Premium,649,20,Comedy,40,UPI,5,3,Yes
+C0446,25,Female,UK,Premium,649,24,Action,19,Debit Card,4,5,Yes
+C0447,20,Female,USA,Standard,499,17,Action,6,Credit Card,4,5,Yes
+C0448,22,Male,USA,Premium,649,14,Comedy,7,PayPal,5,1,Yes
+C0449,27,Male,Canada,Premium,649,11,Action,3,UPI,0,2,Yes
+C0450,53,Male,Australia,Basic,199,9,Horror,27,PayPal,5,4,Yes
+C0451,19,Female,India,Premium,649,1,Sci-Fi,42,UPI,5,5,Yes
+C0452,22,Female,Australia,Basic,199,10,Drama,44,UPI,2,4,No
+C0453,42,Female,India,Standard,499,6,Comedy,35,Credit Card,5,4,Yes
+C0454,52,Female,USA,Standard,499,22,Sci-Fi,47,Debit Card,0,5,No
+C0455,53,Male,India,Basic,199,1,Romance,37,PayPal,4,5,No
+C0456,37,Male,UK,Basic,199,14,Romance,42,Credit Card,1,2,Yes
+C0457,34,Male,India,Basic,199,22,Action,37,PayPal,5,5,Yes
+C0458,60,Male,UK,Basic,199,7,Romance,47,PayPal,2,3,No
+C0459,26,Male,India,Standard,499,20,Comedy,5,Debit Card,3,4,No
+C0460,39,Female,Australia,Basic,199,19,Drama,37,Debit Card,3,2,Yes
+C0461,33,Male,Canada,Standard,499,12,Sci-Fi,9,Debit Card,3,4,No
+C0462,46,Female,UK,Standard,499,18,Comedy,7,UPI,2,2,No
+C0463,30,Female,India,Premium,649,3,Romance,2,UPI,4,5,Yes
+C0464,55,Male,India,Premium,649,9,Romance,35,PayPal,5,2,Yes
+C0465,32,Female,USA,Standard,499,17,Action,33,PayPal,2,5,No
+C0466,18,Male,Australia,Premium,649,6,Comedy,33,PayPal,1,2,Yes
+C0467,54,Male,Canada,Standard,499,2,Horror,15,Credit Card,0,3,Yes
+C0468,20,Male,Australia,Standard,499,13,Horror,31,UPI,0,3,No
+C0469,24,Female,UK,Premium,649,18,Comedy,37,PayPal,5,4,Yes
+C0470,59,Male,Australia,Standard,499,13,Romance,15,PayPal,2,3,No
+C0471,49,Female,Australia,Basic,199,17,Horror,9,Credit Card,1,1,Yes
+C0472,35,Male,USA,Basic,199,6,Romance,24,UPI,5,2,Yes
+C0473,39,Male,Canada,Premium,649,16,Comedy,31,Credit Card,5,4,Yes
+C0474,20,Male,Australia,Premium,649,6,Sci-Fi,9,UPI,4,2,Yes
+C0475,34,Male,Australia,Standard,499,20,Sci-Fi,37,UPI,5,3,No
+C0476,31,Female,Australia,Standard,499,16,Comedy,11,PayPal,4,2,Yes
+C0477,29,Female,USA,Premium,649,22,Horror,22,UPI,1,4,No
+C0478,42,Male,India,Basic,199,7,Romance,34,PayPal,1,5,No
+C0479,24,Male,Canada,Premium,649,20,Romance,3,UPI,0,4,No
+C0480,60,Male,Australia,Premium,649,1,Sci-Fi,44,PayPal,4,4,Yes
+C0481,20,Female,USA,Standard,499,25,Drama,25,UPI,3,2,Yes
+C0482,32,Male,UK,Premium,649,18,Drama,27,Credit Card,0,1,Yes
+C0483,25,Male,Canada,Premium,649,7,Drama,45,PayPal,2,1,Yes
+C0484,59,Female,UK,Premium,649,14,Drama,37,Debit Card,5,4,Yes
+C0485,44,Female,USA,Standard,499,18,Horror,36,Debit Card,2,5,No
+C0486,40,Female,USA,Premium,649,4,Comedy,48,PayPal,5,2,Yes
+C0487,50,Female,UK,Premium,649,20,Sci-Fi,45,UPI,1,4,No
+C0488,58,Male,India,Basic,199,16,Horror,39,UPI,0,3,No
+C0489,32,Female,India,Premium,649,2,Horror,47,PayPal,4,5,Yes
+C0490,56,Male,USA,Premium,649,16,Action,29,Credit Card,5,5,Yes
+C0491,20,Male,Australia,Basic,199,22,Drama,3,Credit Card,5,1,No
+C0492,23,Female,Canada,Standard,499,22,Horror,26,Credit Card,4,1,Yes
+C0493,22,Male,Australia,Standard,499,24,Romance,36,Debit Card,2,3,No
+C0494,32,Male,Canada,Standard,499,19,Drama,1,Credit Card,3,5,No
+C0495,24,Male,Australia,Standard,499,11,Romance,8,Debit Card,4,5,Yes
+C0496,46,Female,Australia,Standard,499,25,Drama,16,PayPal,5,4,No
+C0497,19,Female,India,Standard,499,3,Sci-Fi,25,Credit Card,5,2,No
+C0498,44,Female,Australia,Premium,649,1,Drama,45,Credit Card,2,1,Yes
+C0499,65,Female,India,Premium,649,6,Drama,31,Debit Card,1,5,No
+C0500,35,Male,USA,Standard,499,24,Comedy,13,Credit Card,2,2,Yes
+C0501,33,Female,USA,Basic,199,4,Sci-Fi,6,PayPal,4,1,Yes
+C0502,52,Male,Canada,Standard,499,20,Horror,21,Debit Card,3,2,No
+C0503,50,Female,Canada,Basic,199,25,Comedy,37,UPI,4,4,Yes
+C0504,52,Male,Australia,Standard,499,13,Comedy,44,PayPal,0,5,No
+C0505,47,Female,India,Basic,199,22,Horror,14,UPI,2,3,No
+C0506,57,Female,USA,Premium,649,9,Drama,16,PayPal,4,3,Yes
+C0507,49,Female,USA,Standard,499,23,Drama,24,PayPal,2,4,No
+C0508,29,Male,Australia,Premium,649,8,Sci-Fi,7,Debit Card,1,5,No
+C0509,45,Female,USA,Basic,199,24,Horror,10,UPI,1,4,No
+C0510,49,Male,Australia,Premium,649,24,Horror,21,Debit Card,2,5,No
+C0511,54,Male,Canada,Basic,199,23,Action,11,Credit Card,2,4,No
+C0512,58,Male,Canada,Premium,649,11,Drama,17,Debit Card,4,5,No
+C0513,34,Female,India,Standard,499,4,Sci-Fi,23,Credit Card,4,5,Yes
+C0514,52,Male,UK,Standard,499,11,Romance,44,PayPal,5,4,No
+C0515,42,Female,Canada,Premium,649,5,Sci-Fi,11,Debit Card,3,5,Yes
+C0516,22,Male,USA,Standard,499,8,Drama,21,Debit Card,5,3,Yes
+C0517,43,Female,Canada,Standard,499,24,Romance,38,PayPal,3,2,Yes
+C0518,19,Male,USA,Premium,649,9,Sci-Fi,48,UPI,1,2,Yes
+C0519,24,Male,Canada,Premium,649,2,Horror,2,UPI,0,3,Yes
+C0520,23,Female,UK,Basic,199,8,Drama,48,PayPal,5,2,Yes
+C0521,28,Male,India,Premium,649,12,Horror,21,PayPal,4,3,Yes
+C0522,26,Male,Australia,Premium,649,15,Sci-Fi,41,PayPal,4,5,Yes
+C0523,40,Female,Australia,Basic,199,3,Drama,29,Debit Card,3,3,Yes
+C0524,18,Male,Australia,Basic,199,12,Horror,19,UPI,5,4,No
+C0525,48,Female,India,Standard,499,10,Comedy,39,UPI,4,3,Yes
+C0526,53,Female,Canada,Basic,199,6,Sci-Fi,46,PayPal,3,2,Yes
+C0527,45,Male,Australia,Premium,649,23,Drama,44,Debit Card,5,5,No
+C0528,44,Male,India,Basic,199,5,Action,19,PayPal,4,4,Yes
+C0529,57,Female,USA,Standard,499,1,Action,10,UPI,1,1,Yes
+C0530,26,Female,India,Basic,199,3,Action,10,PayPal,1,3,Yes
+C0531,49,Female,Canada,Premium,649,2,Action,22,Credit Card,0,3,Yes
+C0532,22,Female,USA,Basic,199,9,Action,25,UPI,5,2,Yes
+C0533,46,Male,India,Basic,199,15,Action,48,Credit Card,3,4,No
+C0534,61,Female,UK,Basic,199,21,Action,47,UPI,2,4,No
+C0535,58,Female,USA,Standard,499,2,Comedy,43,UPI,1,4,Yes
+C0536,28,Female,Australia,Basic,199,13,Action,16,UPI,4,4,Yes
+C0537,27,Female,India,Basic,199,6,Action,32,Debit Card,5,1,Yes
+C0538,59,Male,Australia,Basic,199,5,Comedy,32,Debit Card,4,3,No
+C0539,46,Male,India,Premium,649,13,Sci-Fi,23,Credit Card,2,1,Yes
+C0540,46,Female,Australia,Premium,649,16,Romance,13,Credit Card,4,3,Yes
+C0541,47,Female,Australia,Premium,649,6,Romance,5,Credit Card,3,3,No
+C0542,34,Female,Canada,Basic,199,25,Romance,41,PayPal,5,2,No
+C0543,57,Female,Australia,Basic,199,11,Action,47,PayPal,1,5,No
+C0544,61,Female,Australia,Basic,199,20,Drama,19,PayPal,5,3,Yes
+C0545,51,Male,India,Basic,199,6,Comedy,3,UPI,3,2,Yes
+C0546,54,Female,Canada,Premium,649,20,Romance,45,Debit Card,0,3,No
+C0547,32,Male,India,Basic,199,21,Action,32,PayPal,5,1,Yes
+C0548,65,Female,UK,Premium,649,2,Drama,40,UPI,5,1,No
+C0549,22,Male,Australia,Basic,199,4,Comedy,47,PayPal,1,2,Yes
+C0550,33,Male,Australia,Premium,649,18,Sci-Fi,27,UPI,5,5,Yes
+C0551,47,Female,India,Basic,199,6,Horror,36,Debit Card,5,2,Yes
+C0552,56,Female,UK,Standard,499,18,Drama,21,PayPal,5,4,No
+C0553,38,Male,Australia,Premium,649,7,Romance,25,Debit Card,2,4,No
+C0554,46,Female,India,Premium,649,2,Romance,19,UPI,4,2,No
+C0555,37,Male,UK,Basic,199,7,Action,21,Debit Card,4,5,Yes
+C0556,54,Male,India,Basic,199,15,Comedy,23,Credit Card,2,3,No
+C0557,55,Male,USA,Standard,499,10,Romance,6,PayPal,4,2,Yes
+C0558,64,Female,Canada,Basic,199,16,Sci-Fi,45,UPI,4,3,Yes
+C0559,54,Female,India,Basic,199,25,Drama,22,PayPal,3,1,No
+C0560,32,Male,Canada,Basic,199,10,Action,34,Debit Card,4,5,Yes
+C0561,50,Male,USA,Basic,199,22,Horror,47,PayPal,4,5,Yes
+C0562,32,Female,UK,Standard,499,5,Drama,9,UPI,3,5,Yes
+C0563,53,Female,UK,Basic,199,13,Horror,33,Credit Card,1,4,No
+C0564,53,Male,Canada,Standard,499,21,Comedy,37,Credit Card,1,1,Yes
+C0565,45,Female,Australia,Basic,199,4,Horror,43,PayPal,2,3,Yes
+C0566,40,Male,UK,Basic,199,12,Horror,40,Credit Card,3,1,No
+C0567,32,Male,UK,Basic,199,25,Action,47,UPI,5,1,Yes
+C0568,57,Male,UK,Basic,199,11,Action,45,Debit Card,3,4,No
+C0569,19,Female,USA,Premium,649,18,Comedy,14,Debit Card,4,4,Yes
+C0570,27,Male,Canada,Premium,649,22,Action,34,Debit Card,1,1,Yes
+C0571,62,Female,India,Standard,499,21,Action,1,PayPal,5,3,Yes
+C0572,60,Female,India,Basic,199,10,Horror,42,Credit Card,3,5,No
+C0573,63,Male,UK,Standard,499,20,Action,35,Credit Card,1,5,No
+C0574,47,Male,India,Basic,199,17,Drama,20,PayPal,3,2,Yes
+C0575,61,Female,UK,Premium,649,10,Romance,16,Debit Card,0,3,No
+C0576,42,Male,Australia,Standard,499,8,Drama,10,PayPal,5,2,Yes
+C0577,42,Male,Canada,Basic,199,19,Horror,10,Debit Card,4,3,Yes
+C0578,26,Male,USA,Premium,649,18,Comedy,44,Credit Card,2,5,No
+C0579,26,Female,USA,Premium,649,19,Drama,11,UPI,4,5,No
+C0580,25,Male,UK,Basic,199,24,Drama,2,PayPal,3,3,No
+C0581,46,Female,USA,Basic,199,4,Comedy,9,UPI,4,5,Yes
+C0582,54,Male,Australia,Basic,199,8,Action,44,Debit Card,0,4,No
+C0583,26,Female,UK,Basic,199,13,Horror,32,Credit Card,1,2,Yes
+C0584,44,Male,UK,Standard,499,8,Sci-Fi,48,Credit Card,1,1,Yes
+C0585,46,Female,UK,Standard,499,8,Horror,28,UPI,4,4,Yes
+C0586,43,Male,Australia,Basic,199,15,Action,30,Credit Card,4,5,Yes
+C0587,65,Male,Australia,Standard,499,17,Action,41,Credit Card,2,4,No
+C0588,43,Female,UK,Standard,499,6,Drama,28,UPI,5,5,No
+C0589,47,Female,India,Premium,649,17,Comedy,8,Credit Card,3,4,No
+C0590,38,Female,India,Basic,199,15,Sci-Fi,38,Credit Card,3,1,Yes
+C0591,62,Male,India,Basic,199,4,Horror,46,Debit Card,0,5,Yes
+C0592,64,Male,Canada,Premium,649,13,Comedy,3,Debit Card,4,2,Yes
+C0593,27,Male,India,Standard,499,10,Sci-Fi,20,PayPal,2,2,Yes
+C0594,26,Male,India,Premium,649,25,Action,17,PayPal,3,4,No
+C0595,52,Male,Australia,Standard,499,8,Romance,14,PayPal,3,4,No
+C0596,46,Male,Australia,Premium,649,1,Romance,16,Debit Card,4,5,No
+C0597,31,Male,USA,Basic,199,2,Drama,42,UPI,1,1,Yes
+C0598,56,Female,UK,Basic,199,2,Horror,7,Credit Card,1,3,Yes
+C0599,62,Male,Canada,Premium,649,19,Action,24,UPI,2,3,No
+C0600,41,Female,India,Standard,499,18,Drama,5,PayPal,1,1,Yes
+C0601,35,Female,Australia,Standard,499,17,Sci-Fi,14,Credit Card,4,1,Yes
+C0602,64,Male,Canada,Premium,649,23,Sci-Fi,39,Debit Card,3,5,No
+C0603,38,Female,Australia,Premium,649,20,Comedy,23,PayPal,4,4,Yes
+C0604,29,Male,UK,Basic,199,1,Action,8,PayPal,5,1,Yes
+C0605,31,Female,Canada,Basic,199,11,Romance,23,Credit Card,0,2,Yes
+C0606,34,Male,UK,Standard,499,17,Drama,36,UPI,0,3,No
+C0607,39,Female,Australia,Premium,649,1,Comedy,12,Debit Card,2,4,No
+C0608,20,Male,Canada,Basic,199,21,Romance,30,Debit Card,3,4,No
+C0609,65,Male,Australia,Standard,499,19,Sci-Fi,47,Debit Card,4,5,Yes
+C0610,54,Female,UK,Basic,199,5,Action,18,Debit Card,3,5,No
+C0611,54,Female,USA,Premium,649,4,Sci-Fi,20,Debit Card,5,1,Yes
+C0612,23,Female,USA,Standard,499,15,Comedy,20,Debit Card,1,1,Yes
+C0613,20,Male,India,Standard,499,17,Horror,2,Credit Card,1,3,No
+C0614,48,Female,UK,Basic,199,25,Romance,7,Credit Card,1,1,Yes
+C0615,63,Male,India,Standard,499,2,Romance,44,UPI,2,4,No
+C0616,24,Female,India,Premium,649,25,Sci-Fi,20,Credit Card,2,2,Yes
+C0617,35,Female,Canada,Premium,649,4,Comedy,18,Credit Card,2,1,Yes
+C0618,57,Male,USA,Premium,649,12,Drama,36,Debit Card,1,3,No
+C0619,54,Male,USA,Basic,199,10,Drama,40,PayPal,0,2,Yes
+C0620,61,Male,India,Standard,499,2,Horror,6,PayPal,1,5,No
+C0621,58,Female,Australia,Standard,499,10,Comedy,22,UPI,3,5,No
+C0622,26,Male,Canada,Basic,199,15,Sci-Fi,20,PayPal,3,2,No
+C0623,27,Female,UK,Standard,499,6,Sci-Fi,45,Debit Card,2,4,No
+C0624,49,Male,India,Standard,499,4,Horror,23,PayPal,1,3,Yes
+C0625,56,Male,Australia,Basic,199,13,Action,46,Debit Card,4,1,Yes
+C0626,52,Female,Canada,Premium,649,14,Romance,16,Credit Card,4,2,No
+C0627,42,Male,UK,Basic,199,23,Horror,38,PayPal,4,3,Yes
+C0628,33,Male,India,Premium,649,23,Horror,37,UPI,4,5,Yes
+C0629,53,Male,Canada,Basic,199,10,Action,26,UPI,5,5,Yes
+C0630,42,Female,Canada,Premium,649,22,Action,4,Credit Card,1,5,No
+C0631,58,Male,USA,Premium,649,5,Romance,29,Debit Card,3,5,Yes
+C0632,30,Male,UK,Standard,499,19,Drama,44,PayPal,5,3,No
+C0633,55,Male,Australia,Premium,649,13,Drama,9,UPI,2,5,No
+C0634,21,Male,Australia,Standard,499,4,Action,19,Credit Card,3,5,Yes
+C0635,38,Female,Canada,Standard,499,14,Comedy,35,Credit Card,3,2,Yes
+C0636,42,Female,Canada,Basic,199,10,Comedy,43,Credit Card,0,1,Yes
+C0637,27,Female,Canada,Basic,199,3,Sci-Fi,9,PayPal,3,5,No
+C0638,57,Male,Canada,Premium,649,14,Horror,36,PayPal,2,2,Yes
+C0639,56,Male,Australia,Standard,499,24,Sci-Fi,16,Debit Card,3,5,No
+C0640,54,Female,India,Basic,199,19,Sci-Fi,31,Debit Card,0,5,No
+C0641,48,Male,USA,Premium,649,24,Drama,34,PayPal,4,1,Yes
+C0642,57,Male,USA,Standard,499,21,Sci-Fi,48,UPI,5,5,Yes
+C0643,37,Male,UK,Premium,649,25,Horror,1,PayPal,4,4,Yes
+C0644,39,Female,UK,Standard,499,10,Action,11,Debit Card,5,5,Yes
+C0645,58,Female,Australia,Basic,199,19,Sci-Fi,4,Debit Card,5,5,Yes
+C0646,49,Male,USA,Premium,649,3,Drama,18,Credit Card,4,3,Yes
+C0647,34,Male,India,Premium,649,6,Sci-Fi,38,Credit Card,5,4,Yes
+C0648,29,Female,USA,Standard,499,6,Action,34,Debit Card,0,2,Yes
+C0649,27,Female,Canada,Standard,499,8,Horror,43,Credit Card,1,5,No
+C0650,64,Female,India,Premium,649,9,Action,8,Credit Card,3,4,No
+C0651,48,Female,Canada,Premium,649,25,Comedy,35,PayPal,5,4,Yes
+C0652,27,Female,India,Standard,499,15,Sci-Fi,25,Debit Card,4,1,Yes
+C0653,52,Female,Canada,Premium,649,21,Drama,18,Debit Card,2,1,Yes
+C0654,55,Female,Canada,Premium,649,24,Sci-Fi,16,Credit Card,4,3,Yes
+C0655,29,Female,Australia,Basic,199,22,Action,1,UPI,3,1,Yes
+C0656,61,Female,UK,Basic,199,24,Drama,19,Credit Card,0,1,Yes
+C0657,21,Male,Australia,Premium,649,4,Action,46,UPI,4,2,Yes
+C0658,59,Male,India,Premium,649,6,Drama,17,PayPal,5,1,Yes
+C0659,35,Female,UK,Standard,499,6,Drama,5,UPI,3,4,No
+C0660,39,Male,UK,Standard,499,6,Action,29,PayPal,1,5,No
+C0661,43,Male,Canada,Basic,199,5,Horror,35,Credit Card,4,1,No
+C0662,63,Female,India,Basic,199,3,Romance,5,Debit Card,3,1,No
+C0663,27,Male,India,Premium,649,13,Comedy,18,Debit Card,3,5,No
+C0664,18,Female,Canada,Standard,499,13,Action,47,Credit Card,0,4,No
+C0665,62,Female,India,Premium,649,18,Drama,23,Debit Card,3,1,Yes
+C0666,59,Male,UK,Premium,649,11,Horror,6,Debit Card,5,2,Yes
+C0667,20,Female,USA,Standard,499,23,Action,25,Debit Card,3,1,No
+C0668,46,Male,USA,Basic,199,7,Sci-Fi,2,Credit Card,3,4,No
+C0669,22,Female,Canada,Premium,649,15,Action,2,Debit Card,0,3,No
+C0670,64,Male,Canada,Basic,199,7,Sci-Fi,42,PayPal,5,5,Yes
+C0671,55,Male,India,Basic,199,24,Horror,10,UPI,3,5,No
+C0672,20,Male,USA,Basic,199,6,Action,41,Debit Card,0,4,No
+C0673,57,Male,Australia,Basic,199,4,Horror,8,Credit Card,0,2,Yes
+C0674,65,Female,UK,Basic,199,22,Romance,37,Credit Card,2,2,Yes
+C0675,55,Male,UK,Basic,199,4,Comedy,18,PayPal,1,3,Yes
+C0676,46,Male,Australia,Basic,199,5,Sci-Fi,7,PayPal,1,1,No
+C0677,23,Male,India,Basic,199,3,Sci-Fi,46,Debit Card,3,4,Yes
+C0678,31,Male,UK,Premium,649,15,Comedy,27,Credit Card,4,1,Yes
+C0679,63,Female,Australia,Basic,199,21,Drama,20,PayPal,0,5,No
+C0680,33,Male,India,Premium,649,4,Drama,40,Credit Card,3,2,Yes
+C0681,30,Male,USA,Premium,649,16,Comedy,32,Credit Card,5,1,Yes
+C0682,41,Female,USA,Standard,499,9,Romance,22,PayPal,0,1,Yes
+C0683,52,Male,USA,Basic,199,16,Action,33,UPI,1,4,No
+C0684,55,Female,Canada,Basic,199,24,Drama,44,Credit Card,0,3,No
+C0685,32,Male,USA,Premium,649,14,Horror,13,Credit Card,0,4,No
+C0686,55,Female,India,Standard,499,5,Romance,14,PayPal,1,4,Yes
+C0687,47,Male,UK,Standard,499,7,Comedy,22,UPI,5,5,Yes
+C0688,26,Male,Canada,Standard,499,14,Drama,11,Credit Card,2,5,No
+C0689,28,Male,Australia,Premium,649,8,Horror,6,PayPal,1,5,No
+C0690,48,Female,UK,Basic,199,24,Sci-Fi,28,Credit Card,1,3,No
+C0691,45,Male,Australia,Basic,199,19,Horror,1,UPI,0,4,No
+C0692,64,Male,Canada,Premium,649,13,Sci-Fi,31,UPI,3,4,No
+C0693,33,Male,Australia,Basic,199,23,Horror,47,Credit Card,1,3,No
+C0694,36,Male,India,Basic,199,16,Drama,43,Credit Card,5,4,No
+C0695,65,Male,Canada,Standard,499,25,Sci-Fi,9,PayPal,1,3,No
+C0696,58,Female,India,Premium,649,3,Sci-Fi,25,Debit Card,4,1,Yes
+C0697,35,Male,India,Premium,649,11,Action,48,Debit Card,0,1,Yes
+C0698,47,Male,UK,Standard,499,6,Romance,42,UPI,4,2,Yes
+C0699,39,Male,Australia,Basic,199,21,Sci-Fi,31,Credit Card,5,2,Yes
+C0700,35,Female,UK,Basic,199,3,Drama,24,PayPal,3,5,Yes
+C0701,25,Female,Australia,Premium,649,18,Horror,19,Debit Card,5,1,Yes
+C0702,47,Male,India,Standard,499,6,Action,19,UPI,1,3,No
+C0703,25,Male,Canada,Basic,199,7,Sci-Fi,34,UPI,2,4,No
+C0704,61,Male,Canada,Standard,499,14,Sci-Fi,29,UPI,2,2,Yes
+C0705,32,Female,Canada,Premium,649,11,Sci-Fi,42,Debit Card,3,5,No
+C0706,60,Female,Canada,Standard,499,19,Drama,9,Credit Card,2,2,Yes
+C0707,36,Male,USA,Standard,499,10,Comedy,30,Credit Card,5,5,Yes
+C0708,29,Male,USA,Basic,199,4,Drama,3,Credit Card,3,3,Yes
+C0709,31,Male,UK,Standard,499,5,Horror,24,Credit Card,4,3,Yes
+C0710,19,Female,Canada,Basic,199,15,Comedy,21,UPI,5,5,No
+C0711,39,Female,Canada,Standard,499,25,Sci-Fi,37,Credit Card,4,4,Yes
+C0712,25,Female,India,Basic,199,22,Action,36,Debit Card,0,4,No
+C0713,57,Male,Canada,Standard,499,3,Action,21,Credit Card,4,5,Yes
+C0714,35,Male,India,Basic,199,18,Sci-Fi,29,UPI,4,4,Yes
+C0715,38,Male,UK,Standard,499,5,Horror,46,Debit Card,3,3,Yes
+C0716,40,Female,UK,Standard,499,18,Comedy,6,PayPal,5,4,No
+C0717,36,Male,Canada,Premium,649,14,Romance,9,UPI,1,2,Yes
+C0718,51,Female,India,Premium,649,25,Action,25,UPI,3,3,No
+C0719,44,Male,Australia,Standard,499,23,Comedy,37,Credit Card,1,4,No
+C0720,36,Female,India,Standard,499,19,Horror,20,PayPal,1,1,Yes
+C0721,27,Female,UK,Premium,649,21,Action,31,Debit Card,3,2,Yes
+C0722,62,Male,India,Basic,199,25,Horror,18,UPI,4,3,Yes
+C0723,54,Female,UK,Premium,649,22,Sci-Fi,31,UPI,2,5,No
+C0724,64,Male,UK,Basic,199,19,Comedy,4,Debit Card,3,2,Yes
+C0725,21,Female,UK,Standard,499,21,Action,23,Debit Card,2,5,No
+C0726,58,Male,Australia,Basic,199,25,Comedy,41,UPI,4,2,Yes
+C0727,38,Female,UK,Premium,649,23,Drama,45,UPI,4,5,Yes
+C0728,27,Male,USA,Premium,649,10,Horror,24,PayPal,2,2,Yes
+C0729,27,Male,USA,Premium,649,20,Romance,45,UPI,3,4,No
+C0730,22,Male,USA,Basic,199,16,Drama,23,Debit Card,1,4,No
+C0731,56,Female,USA,Premium,649,10,Sci-Fi,2,UPI,1,2,No
+C0732,27,Male,UK,Basic,199,7,Action,9,PayPal,5,1,Yes
+C0733,48,Female,India,Basic,199,4,Sci-Fi,3,UPI,3,1,No
+C0734,20,Male,UK,Premium,649,1,Action,7,Credit Card,4,2,Yes
+C0735,40,Male,India,Basic,199,24,Romance,18,Debit Card,2,2,No
+C0736,64,Male,Australia,Premium,649,3,Romance,7,UPI,4,2,Yes
+C0737,36,Male,Australia,Basic,199,24,Comedy,7,PayPal,2,5,No
+C0738,29,Female,India,Basic,199,12,Horror,25,Credit Card,4,2,Yes
+C0739,38,Male,Canada,Basic,199,17,Horror,9,Debit Card,5,3,Yes
+C0740,20,Male,UK,Standard,499,4,Drama,25,PayPal,4,3,Yes
+C0741,46,Male,Australia,Standard,499,10,Comedy,28,UPI,3,3,No
+C0742,29,Male,Canada,Premium,649,4,Horror,26,UPI,0,2,Yes
+C0743,62,Male,USA,Basic,199,12,Drama,13,Credit Card,4,4,Yes
+C0744,45,Female,UK,Premium,649,25,Romance,38,Debit Card,5,4,Yes
+C0745,60,Female,Canada,Premium,649,9,Horror,10,UPI,0,3,No
+C0746,49,Female,USA,Premium,649,5,Action,2,UPI,0,4,Yes
+C0747,29,Female,Australia,Premium,649,11,Drama,10,UPI,0,5,No
+C0748,49,Female,USA,Standard,499,22,Horror,32,Debit Card,4,3,No
+C0749,52,Male,India,Standard,499,4,Horror,25,Debit Card,3,4,Yes
+C0750,20,Male,Australia,Premium,649,25,Sci-Fi,20,Credit Card,3,4,No
+C0751,26,Female,Canada,Standard,499,25,Romance,8,PayPal,5,5,Yes
+C0752,54,Female,Canada,Premium,649,6,Action,33,PayPal,2,4,No
+C0753,55,Female,Australia,Premium,649,12,Drama,19,UPI,0,5,No
+C0754,20,Male,UK,Standard,499,24,Action,38,Debit Card,3,1,Yes
+C0755,40,Female,UK,Basic,199,22,Comedy,16,Credit Card,5,3,Yes
+C0756,62,Male,UK,Basic,199,11,Action,11,Debit Card,0,4,No
+C0757,60,Female,Australia,Premium,649,14,Action,18,PayPal,4,1,No
+C0758,42,Female,UK,Premium,649,4,Action,32,Credit Card,2,4,Yes
+C0759,60,Female,USA,Premium,649,10,Horror,24,Credit Card,3,1,No
+C0760,52,Male,UK,Standard,499,2,Romance,20,PayPal,1,5,Yes
+C0761,23,Male,Australia,Standard,499,9,Romance,5,PayPal,3,2,Yes
+C0762,22,Female,Australia,Standard,499,14,Romance,43,Debit Card,1,4,No
+C0763,43,Female,Australia,Premium,649,15,Romance,43,Credit Card,0,5,No
+C0764,29,Female,USA,Premium,649,24,Drama,30,PayPal,4,1,Yes
+C0765,41,Female,USA,Basic,199,5,Sci-Fi,48,Debit Card,3,4,Yes
+C0766,22,Male,Canada,Standard,499,10,Comedy,42,Debit Card,5,5,Yes
+C0767,33,Male,USA,Basic,199,1,Drama,16,PayPal,3,5,No
+C0768,45,Male,USA,Basic,199,9,Action,9,Debit Card,2,5,No
+C0769,29,Male,Canada,Basic,199,2,Drama,6,Debit Card,0,4,No
+C0770,60,Male,Canada,Premium,649,5,Action,16,UPI,4,5,No
+C0771,51,Female,Canada,Basic,199,8,Action,39,Debit Card,2,5,No
+C0772,65,Female,USA,Standard,499,7,Action,10,Credit Card,1,3,No
+C0773,46,Female,UK,Premium,649,2,Romance,32,Debit Card,5,1,Yes
+C0774,45,Female,USA,Standard,499,5,Horror,24,Debit Card,2,1,Yes
+C0775,56,Male,India,Premium,649,22,Drama,16,PayPal,2,3,No
+C0776,61,Male,Australia,Basic,199,15,Action,25,PayPal,2,3,No
+C0777,23,Male,UK,Basic,199,6,Sci-Fi,29,Debit Card,5,4,Yes
+C0778,35,Male,Canada,Standard,499,24,Drama,27,PayPal,0,2,Yes
+C0779,50,Male,UK,Standard,499,20,Romance,47,Debit Card,3,1,Yes
+C0780,59,Male,Canada,Premium,649,5,Horror,1,Credit Card,5,3,Yes
+C0781,23,Male,USA,Basic,199,17,Sci-Fi,46,Credit Card,4,4,Yes
+C0782,38,Female,Canada,Premium,649,5,Comedy,17,Debit Card,2,2,Yes
+C0783,41,Male,Canada,Standard,499,19,Action,15,UPI,4,5,Yes
+C0784,23,Female,USA,Standard,499,23,Action,11,PayPal,4,4,Yes
+C0785,27,Male,UK,Basic,199,19,Action,8,PayPal,3,4,No
+C0786,25,Male,USA,Basic,199,9,Sci-Fi,19,PayPal,3,2,Yes
+C0787,31,Male,UK,Premium,649,22,Horror,13,Credit Card,3,2,Yes
+C0788,34,Male,Australia,Standard,499,8,Romance,24,PayPal,0,1,Yes
+C0789,38,Female,USA,Premium,649,13,Horror,46,Debit Card,0,1,Yes
+C0790,21,Female,USA,Standard,499,12,Sci-Fi,39,UPI,0,3,No
+C0791,50,Female,UK,Standard,499,22,Comedy,24,UPI,4,2,Yes
+C0792,50,Female,UK,Standard,499,5,Drama,6,PayPal,1,3,Yes
+C0793,20,Male,Canada,Standard,499,24,Horror,24,Debit Card,2,5,No
+C0794,34,Female,Canada,Basic,199,11,Horror,48,Credit Card,4,4,Yes
+C0795,27,Male,USA,Basic,199,2,Drama,31,Credit Card,5,4,Yes
+C0796,49,Male,Canada,Standard,499,23,Horror,36,PayPal,3,1,No
+C0797,27,Male,UK,Basic,199,7,Comedy,19,Credit Card,5,5,No
+C0798,54,Male,Australia,Basic,199,17,Comedy,37,PayPal,0,2,Yes
+C0799,61,Male,UK,Basic,199,10,Sci-Fi,44,UPI,3,3,No
+C0800,55,Male,UK,Basic,199,1,Horror,6,PayPal,3,3,Yes
+C0801,18,Female,India,Premium,649,20,Drama,29,Credit Card,1,1,No
+C0802,36,Female,India,Premium,649,3,Romance,36,PayPal,0,4,Yes
+C0803,33,Female,India,Basic,199,7,Horror,11,PayPal,2,2,Yes
+C0804,49,Female,UK,Premium,649,20,Drama,9,UPI,2,5,No
+C0805,30,Female,Canada,Standard,499,16,Romance,18,PayPal,0,4,No
+C0806,41,Male,Canada,Premium,649,14,Action,6,Debit Card,3,2,Yes
+C0807,63,Male,Canada,Premium,649,21,Romance,42,UPI,2,4,No
+C0808,45,Male,Canada,Standard,499,5,Sci-Fi,9,Debit Card,1,5,Yes
+C0809,54,Male,Australia,Basic,199,2,Action,33,PayPal,3,1,Yes
+C0810,64,Female,UK,Standard,499,19,Romance,6,UPI,0,4,No
+C0811,29,Male,Canada,Basic,199,3,Sci-Fi,27,Debit Card,2,5,Yes
+C0812,60,Female,Australia,Standard,499,11,Comedy,12,Credit Card,0,5,No
+C0813,34,Male,Canada,Premium,649,1,Horror,1,UPI,0,2,Yes
+C0814,47,Female,Australia,Premium,649,16,Romance,20,Debit Card,5,4,No
+C0815,23,Male,USA,Basic,199,7,Action,8,Credit Card,0,2,Yes
+C0816,27,Male,Canada,Premium,649,18,Action,13,Debit Card,3,2,Yes
+C0817,19,Male,USA,Basic,199,24,Horror,45,PayPal,3,1,No
+C0818,55,Male,USA,Standard,499,19,Action,26,Debit Card,0,1,Yes
+C0819,63,Female,Canada,Standard,499,24,Romance,38,Debit Card,0,4,No
+C0820,43,Female,Australia,Premium,649,24,Sci-Fi,40,PayPal,1,1,Yes
+C0821,45,Female,Australia,Basic,199,9,Horror,42,PayPal,0,4,No
+C0822,57,Female,Canada,Premium,649,14,Comedy,2,Debit Card,5,2,Yes
+C0823,46,Male,Australia,Basic,199,19,Drama,44,PayPal,1,3,No
+C0824,64,Female,Canada,Premium,649,21,Drama,48,PayPal,1,5,No
+C0825,31,Female,India,Premium,649,16,Comedy,9,Credit Card,1,5,No
+C0826,49,Male,Canada,Standard,499,10,Comedy,16,UPI,0,3,No
+C0827,34,Female,USA,Basic,199,17,Action,3,Debit Card,3,1,Yes
+C0828,25,Male,Canada,Standard,499,11,Action,23,Debit Card,1,5,No
+C0829,56,Male,India,Standard,499,15,Action,8,UPI,4,1,Yes
+C0830,28,Male,USA,Standard,499,6,Drama,47,PayPal,4,4,Yes
+C0831,24,Male,UK,Standard,499,5,Comedy,8,PayPal,3,1,Yes
+C0832,48,Female,UK,Premium,649,6,Drama,6,Debit Card,5,4,Yes
+C0833,60,Male,USA,Premium,649,14,Comedy,15,PayPal,3,4,No
+C0834,47,Female,India,Standard,499,5,Sci-Fi,1,UPI,0,3,Yes
+C0835,28,Female,India,Standard,499,25,Sci-Fi,3,Credit Card,4,1,No
+C0836,63,Female,Canada,Standard,499,22,Romance,45,Debit Card,5,3,No
+C0837,18,Female,Australia,Premium,649,5,Horror,45,PayPal,5,2,No
+C0838,57,Female,UK,Premium,649,13,Drama,13,UPI,0,5,No
+C0839,39,Female,USA,Premium,649,18,Comedy,19,UPI,4,5,Yes
+C0840,39,Male,India,Basic,199,18,Drama,38,Credit Card,2,4,No
+C0841,50,Male,India,Standard,499,9,Romance,41,Debit Card,0,1,Yes
+C0842,25,Female,UK,Premium,649,24,Horror,1,Debit Card,1,5,No
+C0843,54,Male,UK,Standard,499,10,Sci-Fi,43,Credit Card,5,4,Yes
+C0844,33,Male,UK,Premium,649,19,Drama,13,PayPal,0,2,Yes
+C0845,44,Male,India,Basic,199,14,Horror,9,Credit Card,3,1,Yes
+C0846,51,Female,Australia,Premium,649,17,Drama,26,PayPal,5,4,No
+C0847,62,Female,Canada,Basic,199,5,Comedy,33,PayPal,5,4,Yes
+C0848,63,Male,USA,Standard,499,16,Sci-Fi,3,Credit Card,4,3,No
+C0849,25,Female,India,Basic,199,12,Drama,37,UPI,4,2,Yes
+C0850,37,Female,UK,Standard,499,16,Comedy,2,Credit Card,4,4,Yes
+C0851,37,Female,USA,Basic,199,24,Action,32,UPI,4,3,Yes
+C0852,20,Female,Canada,Premium,649,10,Horror,37,Debit Card,3,4,No
+C0853,64,Male,USA,Premium,649,21,Horror,30,PayPal,1,3,No
+C0854,23,Female,Canada,Basic,199,13,Romance,22,UPI,5,4,Yes
+C0855,59,Male,USA,Premium,649,1,Sci-Fi,37,Debit Card,4,1,Yes
+C0856,23,Male,Australia,Premium,649,19,Romance,4,Credit Card,3,5,No
+C0857,19,Male,Australia,Basic,199,1,Comedy,18,Credit Card,5,5,Yes
+C0858,52,Female,Canada,Premium,649,2,Action,32,Debit Card,3,2,Yes
+C0859,51,Female,Canada,Standard,499,3,Action,8,Credit Card,2,2,Yes
+C0860,23,Male,UK,Standard,499,22,Action,11,Debit Card,1,1,Yes
+C0861,37,Female,India,Standard,499,5,Drama,27,Debit Card,3,1,Yes
+C0862,33,Male,Canada,Premium,649,25,Horror,33,UPI,2,1,Yes
+C0863,53,Female,India,Standard,499,1,Sci-Fi,27,Credit Card,0,3,Yes
+C0864,55,Male,USA,Premium,649,21,Drama,9,PayPal,3,1,No
+C0865,50,Male,USA,Standard,499,18,Comedy,11,PayPal,4,4,Yes
+C0866,47,Female,USA,Basic,199,2,Drama,31,Debit Card,5,4,No
+C0867,58,Male,Australia,Premium,649,10,Comedy,3,UPI,2,1,Yes
+C0868,25,Male,Australia,Standard,499,14,Romance,14,Debit Card,5,3,Yes
+C0869,63,Female,UK,Basic,199,22,Drama,21,Credit Card,3,5,No
+C0870,39,Male,USA,Premium,649,1,Horror,39,UPI,0,2,Yes
+C0871,62,Female,Canada,Premium,649,3,Sci-Fi,42,UPI,4,1,No
+C0872,60,Female,India,Standard,499,13,Drama,39,PayPal,1,1,Yes
+C0873,41,Male,Canada,Basic,199,8,Action,48,Debit Card,5,3,Yes
+C0874,57,Female,USA,Basic,199,16,Action,24,Debit Card,3,5,No
+C0875,31,Male,USA,Premium,649,13,Drama,8,PayPal,1,5,No
+C0876,30,Male,India,Premium,649,5,Action,48,Credit Card,2,5,No
+C0877,51,Female,USA,Premium,649,1,Sci-Fi,45,Debit Card,5,5,No
+C0878,18,Female,India,Standard,499,14,Drama,27,UPI,5,5,Yes
+C0879,41,Male,USA,Basic,199,9,Romance,27,PayPal,2,1,Yes
+C0880,39,Male,Australia,Basic,199,24,Sci-Fi,15,PayPal,0,2,Yes
+C0881,39,Female,India,Premium,649,21,Action,7,PayPal,3,1,Yes
+C0882,58,Female,UK,Basic,199,4,Comedy,31,Debit Card,0,3,Yes
+C0883,33,Male,Australia,Premium,649,15,Sci-Fi,7,PayPal,4,1,Yes
+C0884,21,Male,Canada,Standard,499,23,Comedy,5,UPI,3,1,Yes
+C0885,58,Female,India,Basic,199,22,Romance,4,UPI,2,4,No
+C0886,43,Male,Australia,Standard,499,8,Sci-Fi,39,UPI,3,4,No
+C0887,47,Female,Australia,Premium,649,4,Sci-Fi,22,UPI,3,5,Yes
+C0888,30,Male,India,Basic,199,20,Action,46,Credit Card,4,2,Yes
+C0889,34,Female,Canada,Standard,499,24,Horror,40,Credit Card,1,2,Yes
+C0890,21,Male,UK,Premium,649,14,Sci-Fi,33,Debit Card,2,5,No
+C0891,52,Male,USA,Standard,499,10,Drama,39,Debit Card,2,1,Yes
+C0892,60,Male,India,Basic,199,17,Action,36,PayPal,2,2,No
+C0893,58,Male,India,Standard,499,7,Horror,43,PayPal,4,3,No
+C0894,54,Female,Australia,Standard,499,14,Comedy,22,UPI,3,1,Yes
+C0895,18,Male,USA,Standard,499,20,Comedy,14,PayPal,5,3,No
+C0896,42,Male,Canada,Basic,199,1,Action,24,UPI,2,1,Yes
+C0897,27,Female,Canada,Basic,199,21,Drama,38,UPI,0,2,Yes
+C0898,29,Male,UK,Premium,649,6,Romance,22,Credit Card,1,2,Yes
+C0899,34,Male,India,Premium,649,5,Sci-Fi,25,UPI,2,2,Yes
+C0900,33,Female,UK,Premium,649,6,Romance,34,PayPal,5,1,Yes
+C0901,26,Male,USA,Premium,649,13,Drama,45,Debit Card,4,4,No
+C0902,33,Male,Australia,Premium,649,7,Drama,35,Credit Card,2,2,Yes
+C0903,35,Male,Australia,Premium,649,16,Sci-Fi,14,UPI,3,5,No
+C0904,22,Male,Australia,Standard,499,25,Romance,42,Debit Card,3,5,No
+C0905,47,Male,UK,Premium,649,12,Sci-Fi,34,PayPal,5,4,Yes
+C0906,55,Female,Australia,Premium,649,2,Comedy,14,Credit Card,3,2,Yes
+C0907,37,Female,Canada,Premium,649,6,Drama,24,UPI,1,1,Yes
+C0908,51,Female,USA,Premium,649,2,Romance,30,Debit Card,3,4,Yes
+C0909,44,Female,Canada,Standard,499,9,Action,25,Credit Card,3,2,Yes
+C0910,22,Female,India,Standard,499,17,Romance,33,UPI,2,2,Yes
+C0911,22,Female,India,Premium,649,7,Comedy,22,Debit Card,2,3,No
+C0912,65,Female,USA,Premium,649,20,Sci-Fi,9,Debit Card,0,3,No
+C0913,36,Female,Canada,Standard,499,19,Action,42,PayPal,5,5,No
+C0914,27,Female,USA,Basic,199,24,Comedy,48,PayPal,1,5,No
+C0915,55,Female,Canada,Standard,499,3,Comedy,21,PayPal,5,4,Yes
+C0916,46,Male,UK,Basic,199,19,Drama,9,UPI,3,3,No
+C0917,39,Male,Canada,Standard,499,22,Sci-Fi,26,Debit Card,2,5,No
+C0918,19,Male,USA,Basic,199,11,Sci-Fi,37,PayPal,3,2,No
+C0919,22,Female,USA,Standard,499,4,Romance,22,PayPal,5,3,Yes
+C0920,24,Male,India,Premium,649,20,Action,32,Credit Card,1,1,No
+C0921,42,Female,USA,Basic,199,10,Romance,43,UPI,3,1,Yes
+C0922,18,Male,UK,Standard,499,13,Action,11,Credit Card,4,4,Yes
+C0923,22,Female,USA,Basic,199,7,Horror,20,PayPal,1,5,No
+C0924,54,Female,Australia,Basic,199,17,Sci-Fi,46,PayPal,2,2,Yes
+C0925,27,Female,India,Standard,499,20,Romance,16,Debit Card,4,4,Yes
+C0926,54,Male,India,Standard,499,21,Drama,30,Debit Card,3,5,No
+C0927,29,Female,USA,Basic,199,20,Horror,47,PayPal,3,2,Yes
+C0928,24,Female,India,Basic,199,6,Sci-Fi,18,Debit Card,5,1,Yes
+C0929,64,Male,Canada,Standard,499,25,Action,36,Debit Card,0,1,Yes
+C0930,38,Female,Canada,Basic,199,9,Romance,14,UPI,3,1,Yes
+C0931,62,Female,Canada,Standard,499,24,Comedy,26,PayPal,0,1,Yes
+C0932,63,Male,UK,Premium,649,24,Horror,30,PayPal,0,1,Yes
+C0933,33,Female,USA,Standard,499,9,Comedy,11,UPI,4,1,Yes
+C0934,25,Female,USA,Basic,199,22,Sci-Fi,1,Debit Card,1,4,No
+C0935,40,Male,USA,Premium,649,2,Romance,44,Credit Card,3,1,No
+C0936,51,Male,Canada,Premium,649,10,Action,29,UPI,0,4,No
+C0937,30,Male,UK,Basic,199,7,Action,6,PayPal,0,1,Yes
+C0938,30,Male,USA,Basic,199,22,Sci-Fi,11,Credit Card,0,4,No
+C0939,50,Male,UK,Standard,499,18,Comedy,41,Credit Card,4,4,No
+C0940,25,Male,USA,Basic,199,12,Comedy,21,UPI,3,3,No
+C0941,18,Female,USA,Standard,499,8,Sci-Fi,5,Debit Card,5,5,Yes
+C0942,22,Male,Canada,Standard,499,25,Horror,39,UPI,5,5,Yes
+C0943,54,Male,UK,Basic,199,20,Sci-Fi,21,PayPal,5,2,Yes
+C0944,58,Female,Canada,Basic,199,11,Romance,2,PayPal,3,5,No
+C0945,58,Male,Australia,Premium,649,23,Comedy,1,UPI,4,1,Yes
+C0946,65,Female,USA,Premium,649,3,Comedy,4,Debit Card,3,3,Yes
+C0947,42,Male,India,Basic,199,24,Horror,39,Debit Card,1,3,No
+C0948,38,Male,Australia,Standard,499,21,Action,19,Credit Card,5,3,Yes
+C0949,31,Male,USA,Premium,649,23,Comedy,47,PayPal,4,3,Yes
+C0950,58,Male,India,Standard,499,3,Action,13,Credit Card,1,2,Yes
+C0951,55,Male,USA,Premium,649,3,Sci-Fi,28,PayPal,2,2,Yes
+C0952,33,Female,USA,Premium,649,8,Drama,20,PayPal,5,2,Yes
+C0953,48,Male,UK,Standard,499,13,Horror,11,PayPal,3,5,No
+C0954,57,Female,USA,Standard,499,1,Horror,25,UPI,2,5,Yes
+C0955,53,Male,UK,Standard,499,15,Horror,20,Debit Card,3,5,No
+C0956,56,Female,India,Standard,499,5,Horror,46,Credit Card,1,2,Yes
+C0957,50,Female,Canada,Standard,499,14,Sci-Fi,26,Debit Card,3,4,No
+C0958,37,Male,Canada,Basic,199,4,Romance,25,Credit Card,1,4,No
+C0959,64,Female,Australia,Premium,649,16,Sci-Fi,41,Debit Card,5,1,Yes
+C0960,45,Male,USA,Standard,499,2,Sci-Fi,24,UPI,5,2,Yes
+C0961,47,Male,UK,Basic,199,20,Sci-Fi,38,Credit Card,0,1,Yes
+C0962,59,Female,Canada,Premium,649,19,Romance,6,Credit Card,3,2,No
+C0963,34,Female,Australia,Premium,649,22,Romance,25,Debit Card,5,4,Yes
+C0964,64,Male,India,Premium,649,19,Comedy,23,Debit Card,5,2,No
+C0965,43,Female,India,Basic,199,16,Action,1,UPI,5,4,Yes
+C0966,59,Female,Canada,Basic,199,6,Comedy,24,Credit Card,1,4,No
+C0967,29,Male,Canada,Premium,649,7,Comedy,12,UPI,5,2,No
+C0968,30,Female,Canada,Standard,499,21,Action,40,Credit Card,0,3,No
+C0969,23,Female,India,Standard,499,3,Action,22,Credit Card,3,4,Yes
+C0970,24,Male,India,Standard,499,25,Sci-Fi,1,UPI,0,2,Yes
+C0971,18,Female,Australia,Premium,649,25,Horror,18,PayPal,2,5,No
+C0972,45,Female,UK,Premium,649,11,Comedy,21,Debit Card,5,4,Yes
+C0973,21,Female,UK,Basic,199,1,Sci-Fi,30,PayPal,5,2,Yes
+C0974,25,Female,USA,Standard,499,15,Sci-Fi,40,PayPal,4,4,Yes
+C0975,18,Female,India,Premium,649,12,Sci-Fi,3,Debit Card,5,4,Yes
+C0976,49,Female,Australia,Basic,199,12,Horror,28,UPI,5,4,Yes
+C0977,30,Male,Australia,Premium,649,23,Action,33,Credit Card,3,1,Yes
+C0978,61,Female,USA,Standard,499,4,Sci-Fi,31,Credit Card,1,2,Yes
+C0979,60,Male,India,Standard,499,23,Comedy,2,Debit Card,3,3,No
+C0980,32,Female,Canada,Premium,649,4,Comedy,43,PayPal,0,3,No
+C0981,54,Male,UK,Standard,499,23,Sci-Fi,48,PayPal,5,5,No
+C0982,45,Male,USA,Standard,499,4,Action,19,UPI,0,3,Yes
+C0983,30,Male,Australia,Standard,499,5,Horror,21,UPI,2,1,Yes
+C0984,30,Female,Canada,Standard,499,25,Sci-Fi,24,Credit Card,4,5,Yes
+C0985,24,Female,India,Premium,649,15,Comedy,21,Debit Card,1,4,No
+C0986,61,Female,USA,Premium,649,10,Sci-Fi,10,UPI,4,3,Yes
+C0987,62,Male,UK,Premium,649,19,Sci-Fi,31,Credit Card,3,3,No
+C0988,63,Female,India,Standard,499,5,Comedy,46,Credit Card,5,1,No
+C0989,29,Female,Canada,Standard,499,22,Action,11,PayPal,2,4,No
+C0990,61,Female,UK,Standard,499,13,Romance,5,Debit Card,2,2,Yes
+C0991,53,Female,India,Basic,199,11,Action,38,Debit Card,3,2,Yes
+C0992,46,Female,UK,Basic,199,7,Sci-Fi,14,Credit Card,5,1,Yes
+C0993,54,Male,USA,Standard,499,14,Comedy,44,UPI,0,3,No
+C0994,48,Male,India,Basic,199,17,Drama,42,PayPal,1,4,No
+C0995,33,Male,India,Basic,199,13,Drama,32,Credit Card,5,4,Yes
+C0996,60,Male,Canada,Premium,649,13,Sci-Fi,18,PayPal,2,1,Yes
+C0997,23,Male,Canada,Premium,649,22,Comedy,33,UPI,4,5,No
+C0998,48,Female,India,Premium,649,6,Horror,25,PayPal,2,5,No
+C0999,26,Male,UK,Basic,199,23,Comedy,35,PayPal,5,1,Yes
+C1000,52,Female,India,Premium,649,19,Sci-Fi,35,UPI,1,1,Yes
